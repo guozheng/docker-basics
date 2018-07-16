@@ -1,4 +1,3 @@
-
 FROM openjdk:8-jdk-alpine
 MAINTAINER Guozheng Ge <guozheng.ge@gmail.com>
 VOLUME /tmp
